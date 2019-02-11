@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DAOConfig>	
+	<dao interface="com.mazda.technician.patsiltcrs.persistence.IPatsILTDAO" 
+         implementation="com.mazda.technician.patsiltcrs.persistence.PatsILTDAO">
+		 <datasource key="MazdaLMS" sourceName="jdbc/MazdaLMS"/>
+    </dao>	
+</DAOConfig>

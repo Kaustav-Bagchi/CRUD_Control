@@ -1,0 +1,258 @@
+/* CSS Document */
+
+.dynamicBoxYellow table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+#FormTable {
+	background-color: #f8f8f8;
+}
+.required-field {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.form-label {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #00536F;
+	font-weight: bold;
+	padding-right: 10px;
+	text-align: right;
+}
+.inquiry-label {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000066;
+	font-weight: normal;
+}
+.form-text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.form-text-small {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	color: #000000;
+}
+.section-header {
+	font-family: "Century Gothic", Verdana, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0099CB;
+	text-transform: uppercase;
+	padding-left: 20px;
+}
+.menu-bar {
+	border-top-width: 3px;
+	border-top-style: solid;
+	border-top-color: #FF9900;
+	text-align: left;
+	background-image: url(../images/menu-bar-back.gif);
+	background-repeat: repeat-x;
+	height: 25px;
+}
+input {
+}
+textarea {
+}
+option {
+}
+button {
+}
+
+
+.sub-header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-align: left;
+	padding-left: 20px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E0E0E0;
+}
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0086D7;
+	text-decoration: underline;
+	text-align: right;
+}
+.form-text-highlight {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF6633;
+}
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+}
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0086D7;
+	text-decoration: underline;
+	text-align: right;
+}
+#Pagination {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+
+#RequiredLayer {
+	position:relative;
+	left:0px;
+	top:0px;
+	width:481px;
+	height:100px;
+	z-index:1;
+	background-color: #FFF4F4;
+	border: 1px solid #FF9797;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #990000;
+	margin-bottom: auto;
+}
+#messagelayer {
+	border: 1px solid #FF0000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FF0000;
+	padding: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	visibility: visible;
+	z-index: 5;
+	width: 450px;
+	background-color: #F9F9F9;
+}
+#buttonsBottom {
+	position: relative;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#listLayer {
+	position:fixed;
+	left:0;
+	top:534px;
+	width:929px;
+	height:317px;
+	z-index:1;
+	margin-right: auto;
+	margin-left: auto;
+	visibility: hidden;
+}
+.table-list-text1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.table-list-text2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-color: #F0FCFF;
+}
+.column-header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0086D7;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #0086D7;
+	background-color: #F5F5F5;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCCCCC;
+	text-decoration: none;
+}
+.column-header-sorted {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #0086D7;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #0086D7;
+	background-color: #F5F5F5;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCCCCC;
+	text-decoration: underline;
+}
+.required-field-background {
+	background-color: #FFCECE;
+}
+#SiteHelpTable td {
+	padding-left: 20px;
+}
+#PhotoTable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0099CB;
+}
+.smallTextBox      {  font-size: 9pt; }
+.smallListMenu     {  font-size: 9pt; }
+.smallButton       {  font-size: 10px; }
+.mazda-logo {
+	background-image: url(../images/logo.gif);
+	height: 33px;
+	background-repeat: no-repeat;
+	width: 150px;
+}
+#SectionHeaderTable {
+
+	font-family: "Century Gothic", Verdana, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0099CB;
+	text-transform: uppercase;
+	padding-left: 15px;
+}
+#ButtonTable {
+	text-align: center;
+}
+#ButtonLayer {
+	position: relative;
+	text-align: center;
+	visibility: visible;
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+}
+#MainTitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+	padding-left: 20px;
+}
+#DataTable {
+
+	background-color: #f8f8f8;
+}
+#DealerNavTable {
+
+
+	background-color: #F3FAFF;
+}
+#RemoveButton {
+	height: 20px;
+	width: 60px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}

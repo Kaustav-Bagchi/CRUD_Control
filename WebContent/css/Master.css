@@ -1,0 +1,155 @@
+BODY
+{
+    BACKGROUND-COLOR: #FFFFFF;
+    COLOR: #333366;
+    FONT-FAMILY: 'Times New Roman'
+    font-size: 10pt;
+    font-weitht:normal;
+}
+H1
+{
+    COLOR: #6666CC;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-TRANSFORM: capitalize
+}
+H2
+{
+    COLOR: #6666CC;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-TRANSFORM: capitalize
+}
+H3
+{
+    COLOR: #6666CC;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-TRANSFORM: capitalize
+}
+
+H4
+{
+    COLOR: #6666CC;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-TRANSFORM: capitalize
+}
+
+H5
+{
+    COLOR: #6666CC;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-TRANSFORM: capitalize
+}
+H6
+{
+    COLOR: #6666CC;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-TRANSFORM: capitalize
+}
+TH 
+{
+   color: #6060cc
+   font-weight:bold;
+    border-width: thin;
+	border-style: solid
+}
+
+TABLE
+{
+    border-width: thin;
+	border-style: solid
+}
+
+TR
+{
+   color:blue;
+}
+
+TD
+{
+   font-size:10pt;
+   font-weight:normal;
+   border-width: thin;
+   border-style: solid
+
+}
+
+.mzOddRow
+{
+   background-color: #e8f2fe;
+}
+
+.mzEvenRow
+{
+	background-color: #f0f1f6;
+}
+
+a:link, a:visited, a:active
+{
+    color:blue;
+    text-decoration:none;
+}
+
+a:hover
+{
+	color:red;
+    text-decoration:none;
+}
+
+UL li, OL li
+  {
+	 color:orange;
+  }
+
+blockquote
+{
+   font-family:arial; sans-serif;
+   font-style:italic;
+   font-size:9pt;
+}
+
+.mzErrorMessage
+{
+   color:red;
+}
+
+.mzRequiredFieldIndicator
+{
+   
+   
+}
+
+.mzPagination
+{
+   color:green;
+}
+
+.mzPagination a:link, a:visited, a:active
+{
+   color:green;
+}
+
+.mzPagination a:hover
+{
+   color:gray;
+}
+
+FORM
+{
+	font-size:10pt;
+
+}
+
+HR
+{
+    valigin:center;
+    width:80%;
+}
+
+TEXTAREA
+{
+    font-family:arial,verdana;;
+	border-width: medium;
+	background-color: #eeeff4
+   
+}
+
+
