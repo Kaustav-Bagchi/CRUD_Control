@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ApplicationServiceDir>	
-	<service interface="com.mazda.technician.patsiltcrs.service.IPatsILTCrsFinderService" implementation="com.mazda.technician.patsiltcrs.service.PatsILTCrsFinderService">
- 
-	</service>	
-
-</ApplicationServiceDir>	
-
