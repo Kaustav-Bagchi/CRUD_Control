@@ -17,6 +17,8 @@ public class CRUD_Control
 	
 	private static volatile CRUD_Control instance;
 	private CRUD_Control() { 
+	
+		int test=0
 	    
 	}
 	
